@@ -143,7 +143,7 @@ function buildCharts(sample) {
         xanchor: 'center',
         y: -0.27,
         yanchor: 'center',
-        text: "The bubble represenst bacterial cultures available per sample",
+        text: "<em>The bubble represenst bacterial cultures available per sample </em>",
         showarrow: false
       }]
     };
@@ -197,7 +197,7 @@ var gaugeLayout = {
     xanchor: 'center',
     y: 0,
     yanchor: 'center',
-    text: "The gauge displays your belly button weekly washing frequency",
+    text: "<em>The gauge displays your belly button weekly washing frequency</em>",
     showarrow: false
   }]
 };
