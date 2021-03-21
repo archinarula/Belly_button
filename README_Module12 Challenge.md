@@ -7,7 +7,8 @@ Data Source:
 ![Belly button Jason data](https://github.com/archinarula/Belly_button/blob/main/samples.json)
 
 
-## Deliverable/Results: This analysis consists of four technical analysis deliverables and a written report:
+## Deliverable/Results: 
+This analysis consists of four technical analysis deliverables and a written report:
 
 - Deliverable 1: Create a Horizontal Bar Chart (Section 1 of the charts.js file)
 
